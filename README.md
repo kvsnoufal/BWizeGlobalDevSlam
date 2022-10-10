@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Product images
+![login](https://raw.githubusercontent.com/kvsnoufal/BWizeGlobalDevSlam/main/public/login.png)
+![optin](https://raw.githubusercontent.com/kvsnoufal/BWizeGlobalDevSlam/main/public/optinpage1.png)
+![optin2](https://raw.githubusercontent.com/kvsnoufal/BWizeGlobalDevSlam/main/public/optinpage2.png)
+![dashboard](https://raw.githubusercontent.com/kvsnoufal/BWizeGlobalDevSlam/main/public/page3_dashboard.png)
+![community1](https://raw.githubusercontent.com/kvsnoufal/BWizeGlobalDevSlam/main/public/page4_community_page.png)
+![community2](https://raw.githubusercontent.com/kvsnoufal/BWizeGlobalDevSlam/main/public/page4.5_comparison.png)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
