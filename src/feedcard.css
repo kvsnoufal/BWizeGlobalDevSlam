@@ -1,0 +1,41 @@
+.FeedCard{
+    box-sizing: border-box; 
+    background: #FFFFFF;
+    /* border: 2px solid #FFFFFF; */
+    border-radius: 3px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.25);
+    /* box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.25); */
+    /* width:100px; */
+    display:flex;
+    flex-direction: column;
+}
+.FCName{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:15px;
+}
+.FCTitle{
+    font-weight: 500;
+    font-size: larger;
+    text-align: left;
+    padding-left: 55px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.FCBody{
+    font-weight: 400;
+    font-size: medium;
+    text-align: left;
+    padding-left: 55px;
+    color:rgba(0, 0, 0, 0.6);
+    padding-top:10px;
+}
+.FCFooter{
+    display:flex;
+    flex-direction: row;
+    gap:40px;
+    align-items: flex-end;
+    align-self: flex-end;
+    padding-bottom: 20px;
+    padding-right:20px;
+}
